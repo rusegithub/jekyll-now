@@ -22,8 +22,7 @@ Eddie Howe has found the perfect role for Willock in this system where he can ut
 |**Bet**|Joe Willock to score|
 |**Sky JK**|6/1|7.0|
 |**result**|lost|
-|Willock not in squad. Knee injury on Friday so we probably didged the bet||
-
+Willock not in squad. Knee injury on Friday so we probably didged the bet  
 |**Score prediction**|2-1|
 |**Score**|1-0|
 
