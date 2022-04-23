@@ -10,6 +10,10 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ## Well, well, well. Three holes in the ground.
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 ### Choose day. Fur's day.
 
 `godness gracious me`
