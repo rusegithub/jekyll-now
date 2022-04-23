@@ -41,7 +41,7 @@ sky text sky text sky text sky text sky text sky text sky text sky text sky text
     <th class="tg-baqh" colspan="2">Some values</th>
   </tr>
   <tr>
-    <th class="tg-baqh">Ma</th>
+    <th class="tg-baqh">i</th>
     <th class="tg-baqh">Value</th>
   </tr>
   <tr>
