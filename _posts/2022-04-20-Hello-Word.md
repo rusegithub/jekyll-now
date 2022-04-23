@@ -18,6 +18,9 @@ Joe Willock is a player who has landed us a couple of touches this season and hi
 .tablelines table, .tablelines td, .tablelines th {  
         border: 1px solid black;  
         }  
+td {
+    padding-right: 50px;
+}
 </style>  
 |**Sky JK**|6/1|7.0|
 |**Sky sgda**|6/1|7.0|
