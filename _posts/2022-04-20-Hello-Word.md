@@ -1,13 +1,11 @@
 ---
 layout: post
-title: You're hello world!
+title: JK predictions 9th April 2022
 published: true
 ---
-## Game 1  
-### Liv v Wat 3pm Sat
-
-#### Friday 8pm
+### Game 1  
 #### Newcastle vs Wolves
+#### Friday 8pm  
 
 Eddie Howe has only lost one of his 10 Premier League home matches with that solitary defeat coming at the hands of Manchester City. The atmosphere at St James' Park and around the club in general is certainly creating a tough environment forvisiting teams. Three straight defeats have stalled their progress towards safety but all of those setbacks came on the road. A return to home comforts on Friday night under the lights should see them snap that losing run. 
 
@@ -30,31 +28,3 @@ Eddie Howe has found the perfect role for Willock in this system where he can ut
 Score|1-0|  
 
 {: .tablelines}  
-## Well, well, well. Three holes in the ground.
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
-### Choose day. Fur's day.
-
-`godness gracious me`
-
-> fiddle de dee
-
-- cvbcvbcxv
-- hhrjerkjk
-- tjrtjsj
-
-1. fgds jsr
-2. mlkjlkj
-3. ljhlqw dfqdf
-
-![_config.yml]({{ site.baseurl }}/_posts/6.png)
-
-![orange blue]({{site.baseurl}}/_posts/6.png)
-
-_cripes_ and **krrruuuuuuunchyyyy**
-
-
-
