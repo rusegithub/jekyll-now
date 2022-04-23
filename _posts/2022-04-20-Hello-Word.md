@@ -19,12 +19,12 @@ Eddie Howe has found the perfect role for Willock in this system where he can ut
         }  
 </style>  
 
-|Bet|**Joe Willock to score**|  
-|Sky JK|**6/1**|**7.0**|  
-|win/lose|**lose**|  
+|**Bet**|Joe Willock to score|  
+|**Sky JK**|6/1|7.0|  
+|**result**|lost|  
 |Willock not in squad. Knee injury on Friday so we probably didged the bet||  
 
-|Score prediction|2-1|  
-|Score|1-0|  
+|**Score prediction**|2-1|  
+|**Score**|1-0|  
 
 {: .tablelines}  
