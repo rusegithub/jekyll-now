@@ -8,6 +8,12 @@ published: true
 
 sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text sky text 
 
+#### Jones bet: Liver to beat Wat and under 3.5 goals 
+#### Jones 6/4 Sky 11/2 Sky SP 13/5 Unibet 2/1
+#### Score prediction 3-0
+#### Score 2-1
+
+
 
 
 
