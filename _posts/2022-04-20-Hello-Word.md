@@ -18,12 +18,18 @@ Eddie Howe has found the perfect role for Willock in this system where he can ut
         border: 1px solid black;  
         }  
 </style>  
-
 |**Bet**|Joe Willock to score|
 |**Sky JK**|6/1|7.0|
 |**result**|lost|
+{: .tablelines}
 Willock not in squad. Knee injury on Friday so we probably didged the bet  
+<style>  
+.tablelines table, .tablelines td, .tablelines th {  
+        border: 1px solid black;  
+        }  
+</style>  
 |**Score prediction**|2-1|
 |**Score**|1-0|
+{: .tablelines}
 
-{: .tablelines}  
+
