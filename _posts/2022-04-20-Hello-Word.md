@@ -13,23 +13,19 @@ Joe Willock is a player who has landed us a couple of touches this season and hi
 
 Eddie Howe has found the perfect role for Willock in this system where he can utilise his clever runs into dangerous areas. It's taking him into great positions which has rocketed his shots per game and expected goals average. Since mid-January, he leads the way for Newcastle for shots (21), expected goals (2.47) and goals (2 - joint with Ryan Fraser and Fabian Schar). With Chris Wood woefully out of form, scoring one goal in his last 17 starts for Burnley and Newcastle, Willock is Newcastle's most likely route to goal. That makes his price of 6/1 with Sky Bet to score anytime rather silly.
 
+**Bet**    Joe Willock to score
 <style>  
 .tablelines table, .tablelines td, .tablelines th {  
         border: 1px solid black;  
         }  
 </style>  
-|**Bet**|Joe Willock to score|
-|**Sky JK**|6/1|7.0|
-|**result**|lost|
+|**Sky JK** 6/1|7.0|
+|**Sky sgda** 6/1|7.0|
+|**Sky hjhgjh** 6/1|7.0|
 {: .tablelines}
+$10 returns $27
 Willock not in squad. Knee injury on Friday so we probably didged the bet  
-<style>  
-.tablelines table, .tablelines td, .tablelines th {  
-        border: 1px solid black;  
-        }  
-</style>  
-|**Score prediction**|2-1|
-|**Score**|1-0|
-{: .tablelines}
+**Score prediction**     2-1  
+**Score** 1-0  
 
 
