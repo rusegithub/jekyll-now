@@ -12,7 +12,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ### Choose day. Fur's day.
 
-godness gracious me
+`godness gracious me`
 
 > fiddle de dee
 
