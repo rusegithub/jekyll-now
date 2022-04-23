@@ -25,14 +25,14 @@ td {
     padding-left: 5px;
 }
 </style>  
-|*Sky JK*|**6/1|7.0**|
-|*Sky sgda*|6/1|7.0|
-|*Sky hjhgjh* | 6/1 | 7.0 |
+|*Sky JK*|**6/1**|**7.0**|
+|*Sky sgda*|**6/1**|**7.0**|
+|*Sky hjhgjh* |**6/1**|**7.0**|
 {: .tablelines}
 *$10 returns* **$27**  
 Willock not in squad. Knee injury on Friday so we probably didged the bet  
 
-*Score prediction**     2-1  
-**Score** 1-0  
+*Score prediction*     **2-1**  
+*Score* **1-0**  
 
 
