@@ -24,6 +24,8 @@ Next you can update your site name, avatar and other options using the _config.y
 2. mlkjlkj
 3. ljhlqw dfqdf
 
+![_config.yml]({{ site.baseurl }}/_posts/6.png)
+
 ![orange blue]({{site.baseurl}}/_posts/6.png)
 
 _cripes_ and **krrruuuuuuunchyyyy**
