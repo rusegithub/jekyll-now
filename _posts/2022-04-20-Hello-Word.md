@@ -19,11 +19,11 @@ Eddie Howe has found the perfect role for Willock in this system where he can ut
         border: 1px solid black;  
         }  
 </style>  
-|**Sky JK** 6/1|7.0|
-|**Sky sgda** 6/1|7.0|
-|**Sky hjhgjh** 6/1|7.0|
+| **Sky JK** |6/1|7.0|
+|**Sky sgda**|6/1|7.0|
+|**Sky hjhgjh**|6/1|7.0|
 {: .tablelines}
-$10 returns $27
+**$10 returns $27**  
 Willock not in squad. Knee injury on Friday so we probably didged the bet  
 **Score prediction**     2-1  
 **Score** 1-0  
