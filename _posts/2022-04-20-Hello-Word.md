@@ -4,7 +4,7 @@ title: JK predictions 9th April 2022
 published: true
 ---
 #### Game 1  
-## Newcastle vs Wolves | Friday 8pm  
+### Newcastle vs Wolves | Friday 8pm  
 
 <style>  
 .tablelines table, .tablelines td, .tablelines th {  
@@ -32,16 +32,40 @@ td {
 }
 </style>  
 |*Sky JK*|**6/1**|**7.0**|
-|*Sky sgda*|**6/1**|**7.0**|
-|*Sky hjhgjh* |**6/1**|**7.0**|
 {: .tablelines}
 <p></p>
-*$10 returns*: **$27**  
-Willock not in squad. Knee injury on Friday so we probably dodged the bet  
-
-*Score prediction*: **2-1**  
-*Score*: **1-0**
-
+<style>  
+.tablelines table, .tablelines td, .tablelines th {  
+        border: 1px solid black;  
+        }  
+td {
+    padding-right: 15px;
+}
+td {
+    padding-left: 5px;
+}
+</style>  
+|$10 returns|**$0**|  
+{: .tablelines}
+Willock not in squad. Knee injury on Friday so probably dodged the bet.
+<p></p>
+</style>  
+|*Sky JK*|**6/1**|**7.0**|
+{: .tablelines}
+<p></p>
+<style>  
+.tablelines table, .tablelines td, .tablelines th {  
+        border: 1px solid black;  
+        }  
+td {
+    padding-right: 15px;
+}
+td {
+    padding-left: 5px;
+}
+</style>  
+|Score prediction|**2-1**|  
+|Score|**1-0**|
 
 `Eddie Howe has only lost one of his 10 Premier League home matches with that solitary defeat coming at the hands of Manchester City. The atmosphere at St James' Park and around the club in general is certainly creating a tough environment forvisiting teams. Three straight defeats have stalled their progress towards safety but all of those setbacks came on the road. A return to home comforts on Friday night under the lights should see them snap that losing run.`
 
