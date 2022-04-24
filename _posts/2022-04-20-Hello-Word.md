@@ -18,7 +18,7 @@ td {
     padding-left: 5px;
 }
 </style>  
-|Bet|**Joe Willock to score**|  
+|Bet|**Joe Willock to score**|
 {: .tablelines}
 
 <style>  
@@ -35,6 +35,7 @@ td {
 |*Sky JK*|**6/1**|**7.0**|
 |*Sky sgda*|**6/1**|**7.0**|
 |*Sky hjhgjh* |**6/1**|**7.0**|
+| | |
 {: .tablelines}
 *$10 returns*: **$27**  
 Willock not in squad. Knee injury on Friday so we probably dodged the bet  
