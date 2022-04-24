@@ -31,7 +31,7 @@ td {
     padding-left: 5px;
 }
 </style>  
-|*Sky JK*|**6/1**|**7.0**|
+|*SkyBet JK*|**6/1**|**7.0**|
 {: .tablelines}
 <p></p>
 <style>  
@@ -49,6 +49,7 @@ td {
 {: .tablelines}
 Willock not in squad. Knee injury on Friday so probably dodged the bet.
 <p></p>
+****
 <style>  
 .tablelines table, .tablelines td, .tablelines th {  
         border: 1px solid black;  
@@ -64,8 +65,8 @@ td {
 |Score|**1-0**|
 {: .tablelines}
 <p></p>
-
-`Eddie Howe has only lost one of his 10 Premier League home matches with that solitary defeat coming at the hands of Manchester City. The atmosphere at St James' Park and around the club in general is certainly creating a tough environment forvisiting teams. Three straight defeats have stalled their progress towards safety but all of those setbacks came on the road. A return to home comforts on Friday night under the lights should see them snap that losing run.`
+****
+`Eddie Howe has only lost one of his 10 Premier League home matches, with that solitary defeat coming at the hands of Manchester City. The atmosphere at St James' Park and around the club in general is certainly creating a tough environment for visiting teams. Three straight defeats have stalled their progress towards safety but all of those setbacks came on the road. A return to home comforts on Friday night under the lights should see them snap that losing run.`
 
 `Joe Willock is a player who has landed us a couple of touches this season and his goalscorer prices with Sky Bet remain juicy enough to attack again.`
 
