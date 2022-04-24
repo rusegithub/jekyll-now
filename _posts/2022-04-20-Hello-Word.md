@@ -3,9 +3,8 @@ layout: post
 title: JK predictions 9th April 2022
 published: true
 ---
-### Game 1  
-#### Newcastle vs Wolves
-#### Friday 8pm  
+#### Game 1  
+## Newcastle vs Wolves | Friday 8pm  
 
 <style>  
 .tablelines table, .tablelines td, .tablelines th {  
