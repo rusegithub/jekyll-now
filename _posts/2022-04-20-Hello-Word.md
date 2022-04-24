@@ -62,6 +62,8 @@ td {
 </style>  
 |JK score prediction|**2-1**|  
 |Score|**1-0**|
+{: .tablelines}
+<p></p>
 
 `Eddie Howe has only lost one of his 10 Premier League home matches with that solitary defeat coming at the hands of Manchester City. The atmosphere at St James' Park and around the club in general is certainly creating a tough environment forvisiting teams. Three straight defeats have stalled their progress towards safety but all of those setbacks came on the road. A return to home comforts on Friday night under the lights should see them snap that losing run.`
 
