@@ -18,7 +18,7 @@ td {
     padding-left: 5px;
 }
 </style>  
-|Bet|**Joe Willock to score**|
+|Bet|**Joe Willock to score**|  
 {: .tablelines}
 
 <style>  
