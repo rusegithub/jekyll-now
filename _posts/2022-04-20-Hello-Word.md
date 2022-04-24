@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JK predictions 9th April 2022
+title: JK predictions for 8-10 April 2022
 published: true
 ---
 #### Game 1  
