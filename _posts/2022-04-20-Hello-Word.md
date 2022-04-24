@@ -19,7 +19,7 @@ published: true
         border: 1px solid black;  
         }  
 td {
-    padding-right: 50px;
+    padding-right: 20px;
 }
 td {
     padding-left: 5px;
