@@ -58,17 +58,13 @@ I've made some of the more interesting stuff he wrote <b>bold</b>. Sometimes he 
 <hr>
 Next you get my little summary of how his betting angle got on.
 
-Again, <font color="green">green is good</font>, <font color="green">red is bad</font>.
+Again, <font color="green">green is good</font>, <font color="crimson">red is bad</font>.
 
-So <b><font color="green">Maddison (13/2 to score first) did.</font></b> is green because his betting angle of Maddison to score first (@ 13/2) came in - Maddison did score first.
+So "<b><font color="green">Maddison (13/2 to score first) did.</font></b>" is green because his betting angle of Maddison to score first (@ 13/2) came in - Maddison did score first.
 
-And <b><font color="crimson">Wolves 1, Norwich (13/2 to win) 1.</font></b> is red because his betting angle of Norwich to win (@13/2) lost - Norwich didn't win.
+And "<b><font color="crimson">Wolves 1, Norwich (13/2 to win) 1.</font></b>" is red because his betting angle of Norwich to win (@13/2) lost - Norwich didn't win.
 
-If his betting angle was a double, there may be green text and red text together.
-
-So, for example, <b><font color="crimson">Villa 1, Palace 1. </font><font color="green">Both teams to score </font><font color="crimson">& over 2.5 goals was 6/5. </font></b>
-
-Both teams did score so that part's green, but there weren't over 2.5 goals, hence the red. 
+If his betting angle was a double, there may be green text and red text together. So, for example, "<b><font color="crimson">Villa 1, Palace 1. </font><font color="green">Both teams to score </font><font color="crimson">& over 2.5 goals was 6/5.</font></b>" Both teams did score so that part's green, but there weren't over 2.5 goals, hence the red. 
 
 I add in other very simple bits of relevant information from after the match too, in black. For example, if his betting angle was "under 2.5 goals", I'll say what the combined xG of both teams was.
 
@@ -76,4 +72,7 @@ The final score will always be written here too.
 
 <hr>
 As far as the spreadsheet screenshots go, don't worry about the colours. All the information's there and you should be able to work out what you're looking at. I'll explain more when I see you if you're interested.
+
+<hr>
+PS. This whole thing is a waste of time because it's pretty clear that he's not going to consistently win unless he's lucky.
 
