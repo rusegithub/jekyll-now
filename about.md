@@ -44,7 +44,7 @@ td {
 
 If <b><font color="crimson">the text is red and bold</font></b>, he picked one team to win but the other team won. Big fail.
 
-<font color="crimson">Red but not bold text</font> means he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw.
+<font color="crimson">Red but not bold text</font>means he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw.
 
 <font color="green">Green but not bold</font> means he got the right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2.
 
