@@ -23,7 +23,7 @@ Bet: <b>Leeds to win & under 2.5 Goals</b><br>
 Odds: <b>5/1</b> | <b>6.0</b><br><font color="crimson">Lost: <b>$100</b></font>
 
 <hr>
-Next, in a little mini table under JK's betting angle, you'll also find his score prediction.
+Next, you'll find his score prediction.
 
 Example:
 <style>
@@ -42,13 +42,13 @@ td {
 |<font color="crimson">Score</font>|<font color="crimson">1-0</font>|
 {: .tablelines}
 
-In this correct score section, if the text is red and bold, he picked one team to win but the other team won. Big fail.
+If <b><font color="crimson">the text is red and bold</font></b>, he picked one team to win but the other team won. Big fail.
 
-Red but not bold text means he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won OR he predicted one of the teams would win but it was a draw.
+<font color="crimson">Red but not bold text</font> means he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw.
 
-Green but not bold means he got the right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2.
+<font color="green">Green but not bold</font> means he got the right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2.
 
-Green and bold means he nailed the correct score.
+<b><font color="green">Green and bold text</font></b> means he nailed the correct score.
 
 <hr>
 Then you get "What JK said" which just repeats what he wrote in his article but with all the extraneous stuff (links and pictures) removed to make it easy to read.
