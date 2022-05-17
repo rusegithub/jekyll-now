@@ -9,7 +9,7 @@ permalink: /about/
 <hr>
 There's one page for each article JK writes.
 
-So go to <a href="https://537597.xyz">537597.xyz</a> (or click <a href="https://537597.xyz">Home</a> at the top of any page) and you'll see, for example, "<b>JK 15-16 May 2022</b>". Click on that (or on "<b>READ MORE</b>" under the spreadsheet screenshot) to go to the page for the games that took place from the 15th to the 16th of May.
+So go to <a href="https://537597.xyz">537597.xyz</a> (or click <b><a href="https://537597.xyz">Home</a></b> at the top of any page) and you'll see, for example, "<b>JK 15-16 May 2022</b>". Click on that (or on "<b>READ MORE</b>" under the spreadsheet screenshot) to go to the page for the games that took place from the 15th to the 16th of May.
 
 <hr>
 On each page, under "Game 1", "Game 2" etc, is JK's recommended betting angle (including the odds and whether the bet lost $100 or, if it won, how much it returned). I'm pretending we've bet $100 on each game.
