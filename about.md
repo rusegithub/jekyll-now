@@ -74,5 +74,5 @@ The final score will always be written here too.
 As far as the spreadsheet screenshots go, don't worry about the colours. All the information's there and you should be able to work out what you're looking at. I'll explain more when I see you if you're interested.
 
 <hr>
-PS. This whole thing is a waste of time because it's pretty clear that he's not going to consistently win unless he's lucky.
+PS. As you know (Mick: "He's not pulling up any trees"), this whole thing is a waste of time because it's pretty clear that he's not going to consistently win unless he's lucky.
 
