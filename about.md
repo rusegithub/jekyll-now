@@ -12,7 +12,7 @@ There's one page for each article JK writes.
 So go to <a href="https://537597.xyz">537597.xyz</a> (or click <a href="https://537597.xyz">Home</a> at the top of any page) and you'll see, for example, "<b>JK 15-16 May 2022</b>". Click on that (or on "<b>READ MORE</b>" under the spreadsheet screenshot) to go to the page for the games that took place from the 15th to the 16th of May.
 
 <hr>
-On each page, under "Game 1", "Game 2" etc, is JK's recommended betting angle was (including the odds and whether the bet lost $100 or, if it won, how much it returned). I'm pretending we've bet $100 on each game.
+On each page, under "Game 1", "Game 2" etc, is JK's recommended betting angle (including the odds and whether the bet lost $100 or, if it won, how much it returned). I'm pretending we've bet $100 on each game.
 
 Like this:
 
@@ -23,7 +23,8 @@ Bet: <b>Leeds to win & under 2.5 Goals</b><br>
 Odds: <b>5/1</b> | <b>6.0</b><br><font color="crimson">Lost: <b>$100</b></font>
 
 <hr>
-Next, in a little mini table under JK's betting angle, you'll also find his score prediction. I'm pretending we've bet $10 on each correct score - the results are in the spreadsheet screenshots on each page.
+Next, in a little mini table under JK's betting angle, you'll also find his score prediction.
+
 Example:
 <style>
 .tablelines table, .tablelines td, .tablelines th {
