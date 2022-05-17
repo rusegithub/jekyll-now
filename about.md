@@ -6,10 +6,13 @@ permalink: /about/
 
 You CAN look at it your phone but to see the screenshots of my spreadsheet, you'd have to turn your phone on its side. But if you look at it on your laptop, you'll see them clear as day. The rest is totally legible whether you're on your laptop or your phone.
 
+<hr>
 There's one page for each article JK writes. So go to <a href="https://537597.xyz">537597.xyz</a> (or click <a href="https://537597.xyz">Home</a> at the top of any page) and you'll see, for example, "<b>JK 15-16 May 2022</b>". Click on that (or on "<b>READ MORE</b>" under the spreadsheet screenshot) to go to the page for the games that took place from the 15th to the 16th of May.
 
+<hr>
 On each page, you'll find the screenshot of my spreadsheet for that week and, underneath, what JK's recommended betting angle was (including the odds and whether the bet lost $100 or, if it won, how much it returned). I'm pretending we've bet $100 on each game.
 
+<hr>
 Next, in a little mini table under JK's betting angle, you'll also find his score prediction. I'm pretending we've bet $10 on each correct score - the results are in the spreadsheet screenshots on each page.
 Example:
 <style>
@@ -36,10 +39,12 @@ Green but not bold means he got the right result but the wrong score - e.g. he p
 
 Green and bold means he nailed the correct score.
 
+<hr>
 Then you get "What JK said" which just repeats what he wrote in his article but with all the extraneous stuff (links and pictures) removed to make it easy to read.
 
 I've made some of the more interesting stuff he wrote bold. Sometimes he suggests other bets that he didn't end up choosing as his betting angle. If those bets ended up winning, they will be bold. It's pretty arbitrary what gets to be bold. It's just meant to draw your eye to certain things in case you're just skimming through.
 
+<hr>
 Then under that, you get my little summary of how his betting angle got on.
 
 Again, green is good, red is bad.
@@ -58,5 +63,6 @@ I add in other very simple bits of relevant information from after the match too
 
 The final score will always be written here too.
 
-As far as the spreadsheet screenshots go, don't worry about the colours. All the information's there and you shold be able to work out what you're looking at. I'll explain more when I see you if you're interested.
+<hr>
+As far as the spreadsheet screenshots go, don't worry about the colours. All the information's there and you should be able to work out what you're looking at. I'll explain more when I see you if you're interested.
 
