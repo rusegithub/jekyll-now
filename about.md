@@ -44,21 +44,21 @@ td {
 
 If <b><font color="crimson">the text is red and bold</font></b>, he picked one team to win but the other team won. Big fail.
 
-<font color="crimson">Red but not bold text</font>means he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw.
+If <font color="crimson">the text is red but not bold</font>, he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw.
 
-<font color="green">Green but not bold</font> means he got the right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2.
+If <font color="green">the text is green but not bold</font>, he got the right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2.
 
-<b><font color="green">Green and bold text</font></b> means he nailed the correct score.
-
-<hr>
-Then you get "What JK said" which just repeats what he wrote in his article but with all the extraneous stuff (links and pictures) removed to make it easy to read.
-
-I've made some of the more interesting stuff he wrote bold. Sometimes he suggests other bets that he didn't end up choosing as his betting angle. If those bets ended up winning, they will be bold. It's pretty arbitrary what gets to be bold. It's just meant to draw your eye to certain things in case you're just skimming through.
+If <b><font color="green">the text is green and bold</font></b>, he nailed the correct score.
 
 <hr>
-Then under that, you get my little summary of how his betting angle got on.
+Next is "What JK said" which just repeats what he wrote in his article but with all the extraneous stuff (links and pictures) removed.
 
-Again, green is good, red is bad.
+I've made some of the more interesting stuff he wrote <b>bold</b>. Sometimes he suggests other bets that he didn't end up choosing as his betting angle. If those bets ended up winning, they will be bold. It's pretty arbitrary what gets to be bold. It's just meant to draw your eye to certain things in case you're skimming through.
+
+<hr>
+Next you get my little summary of how his betting angle got on.
+
+Again, <font color="green">green is good</font>, <font color="green">red is bad</font>.
 
 So <b><font color="green">Maddison (13/2 to score first) did.</font></b> is green because his betting angle of Maddison to score first (@ 13/2) came in - Maddison did score first.
 
