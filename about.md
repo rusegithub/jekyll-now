@@ -24,7 +24,30 @@ So go to <a href="https://537597.xyz">537597.xyz</a> (or click <b><a href="https
 <hr>
 On each page, under "Game 1", "Game 2" etc, is JK's recommended betting angle (including the odds - fractional and decimal - and whether the bet lost $100 or, if it won, how much it returned). I'm pretending we've bet $100 on each game.
 
-Like this:
+Examples:
+
+Winning bet:
+
+#### Game 5 | Sunday 2pm
+### West Ham vs Manchester City
+
+<table style="border:1px solid black;">
+  <tr style="background-color:lime;border:1px solid black">
+    <td style="border:1px solid black;"><b>JK betting angle</b></td>
+    <td style="border:1px solid black;" colspan="2"><b>Jarrod Bowen to score</b></td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;"><b>Odds</b></td>
+    <td style="border:1px solid black;"><b>7/2</b></td>
+    <td style="border:1px solid black;"><b>4.5</b></td>
+    </tr>
+  <tr style="background-color:lime;border:1px solid black">
+    <td style="border:1px solid black;"><b>$100 returned</b></td>
+    <td style="border:1px solid black;" colspan="2"><b>$450</b></td>
+    </tr>
+</table>
+
+Losing bet:
 
 #### Game 3 | Sunday 2pm
 ### Leeds vs Brighton
@@ -44,6 +67,28 @@ Like this:
     <td style="border:1px solid black;" colspan="2"><b>$100</b></td>
     </tr>
 </table>
+
+Bad losing bet:
+
+#### Game 5 | Saturday 3pm
+### Wolves vs Brighton
+
+<table style="border:1px solid black;">
+  <tr style="background-color:coral;border:1px solid black">
+    <td style="border:1px solid black;"><b>JK betting angle</b></td>
+    <td style="border:1px solid black;" colspan="2"><b>Wolves to win & under 2.5 goals</b></td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;"><b>Odds</b></td>
+    <td style="border:1px solid black;"><b>4/1</b></td>
+    <td style="border:1px solid black;"><b>5.0</b></td>
+    </tr>
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;"><b>Lost</b></td>
+    <td style="border:1px solid black;" colspan="2"><b>$100</b></td>
+    </tr>
+</table>
+
 <hr>
 Next, you'll find his score prediction.
 
