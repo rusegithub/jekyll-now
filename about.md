@@ -95,7 +95,8 @@ Bad losing bet:
 (The game finished Wolves 0, Brighton 3.)
 
 <hr>
-Next, you'll find his score prediction.
+<hr>
+Next, you'll find his score prediction (with the fractional odds).
 
 Examples:
 <hr>
