@@ -47,8 +47,9 @@ Winning bet:
     </tr>
 </table>
 
-Losing bet:
 <hr>
+Losing bet:
+
 #### Game 3 | Sunday 2pm
 ### Leeds vs Brighton
 
@@ -68,8 +69,9 @@ Losing bet:
     </tr>
 </table>
 
-Bad losing bet:
 <hr>
+Bad losing bet:
+
 #### Game 5 | Saturday 3pm
 ### Wolves vs Brighton
 
