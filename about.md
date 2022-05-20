@@ -3,6 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+<head>
+<style>
+td {
+    padding-right: 5px;
+}
+td {
+    padding-left: 5px;
+}
+</style>
+</head>
 
 <i>You CAN look at it on your phone but to see the screenshots of my spreadsheet, you'd have to turn your phone on its side. But if you look at it on your laptop, you'll see them clear as day. The rest is totally legible whether you're on your laptop or your phone.</i>
 
