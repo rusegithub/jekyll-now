@@ -19,28 +19,43 @@ Like this:
 #### Game 3 | Sunday 2pm
 ### Leeds vs Brighton
 
-Bet: <b>Leeds to win & under 2.5 Goals</b><br>
-Odds: <b>5/1</b> | <b>6.0</b><br><font color="crimson">Lost: <b>$100</b></font>
-
+<table style="border:1px solid black;">
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;"><b>JK betting angle</b></td>
+    <td style="border:1px solid black;" colspan="2"><b>Leeds to win & under 2.5 goals</b></td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;"><b>Odds</b></td>
+    <td style="border:1px solid black;"><b>5/1</b></td>
+    <td style="border:1px solid black;"><b>6.0</b></td>
+    </tr>
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;"><b>Lost</b></td>
+    <td style="border:1px solid black;" colspan="2"><b>$100</b></td>
+    </tr>
+</table>
 <hr>
 Next, you'll find his score prediction.
 
 Example:
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-td {
-    padding-right: 15px;
-}
-td {
-    padding-left: 5px;
-}
-</style>
-|<font color="crimson">JK score prediction</font>|<font color="crimson">1-1</font>|
-|Odds|17/2|
-|<font color="crimson">Score</font>|<font color="crimson">1-0</font>|
-{: .tablelines}
+<table>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Score</td>
+    <td style="border:1px solid black;">1-1</td>
+    </tr>
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;">JK score prediction</td>
+    <td style="border:1px solid black;">1-0</td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Odds</td>
+    <td style="border:1px solid black;">17/2</td>
+    </tr>
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;">Lost</td>
+    <td style="border:1px solid black;">$10</td>
+    </tr>
+</table>
 
 If <b><font color="crimson">the text is red and bold</font></b>, he picked one team to win but the other team won. Big fail.
 
