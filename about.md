@@ -46,6 +46,7 @@ Winning bet:
     <td style="border:1px solid black;" colspan="2"><b>$450</b></td>
     </tr>
 </table>
+(Bowen scored.)
 
 <hr>
 Losing bet:
@@ -68,6 +69,7 @@ Losing bet:
     <td style="border:1px solid black;" colspan="2"><b>$100</b></td>
     </tr>
 </table>
+(The game finished Leeds 1, Brighton 1.)
 
 <hr>
 Bad losing bet:
