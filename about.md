@@ -90,19 +90,70 @@ Bad losing bet:
     <td style="border:1px solid black;" colspan="2"><b>$100</b></td>
     </tr>
 </table>
+(The game finished Wolves 0, Brighton 3.)
 
 <hr>
 Next, you'll find his score prediction.
 
-Example:
+Examples:
+<hr>
+Winning bet (nailed the correct score):
+
+(Tottenham v Leicester on 1 May)
+<table>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Score</td>
+    <td style="border:1px solid black;">3-1</td>
+    </tr>
+  <tr style="background-color:lime;border:1px solid black">
+    <td style="border:1px solid black;">JK score prediction</td>
+    <td style="border:1px solid black;">3-1</td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Odds</td>
+    <td style="border:1px solid black;">9/1</td>
+    </tr>
+  <tr style="background-color:lime;border:1px solid black">
+    <td style="border:1px solid black;">$10 returned</td>
+    <td style="border:1px solid black;">$100</td>
+    </tr>
+</table>
+
+<hr>
+Right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2: 
+
+(Villa v Palace on 15 May)
 <table>
   <tr style="background-color:white;border:1px solid black">
     <td style="border:1px solid black;">Score</td>
     <td style="border:1px solid black;">1-1</td>
     </tr>
+  <tr style="background-color:#CBFDCB;border:1px solid black">
+    <td style="border:1px solid black;">JK score prediction</td>
+    <td style="border:1px solid black;">2-2</td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Odds</td>
+    <td style="border:1px solid black;">12/1</td>
+    </tr>
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;">Lost</td>
+    <td style="border:1px solid black;">$10</td>
+    </tr>
+</table>
+
+<hr>
+Wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw:
+
+(Tottenham v Burnley on 15 May)
+<table>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Score</td>
+    <td style="border:1px solid black;">1-0</td>
+    </tr>
   <tr style="background-color:mistyrose;border:1px solid black">
     <td style="border:1px solid black;">JK score prediction</td>
-    <td style="border:1px solid black;">1-0</td>
+    <td style="border:1px solid black;">1-1</td>
     </tr>
   <tr style="background-color:white;border:1px solid black">
     <td style="border:1px solid black;">Odds</td>
@@ -114,13 +165,28 @@ Example:
     </tr>
 </table>
 
-If <b><font color="crimson">the text is red and bold</font></b>, he picked one team to win but the other team won. Big fail.
+<hr>
+Big fail. He picked one team to win but the other team won:
 
-If <font color="crimson">the text is red but not bold</font>, he got the wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw.
-
-If <font color="green">the text is green but not bold</font>, he got the right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2.
-
-If <b><font color="green">the text is green and bold</font></b>, he nailed the correct score.
+(Everton v Chelsea on 1 May)
+<table>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Score</td>
+    <td style="border:1px solid black;">1-0</td>
+    </tr>
+  <tr style="background-color:coral;border:1px solid black">
+    <td style="border:1px solid black;">JK score prediction</td>
+    <td style="border:1px solid black;">0-2</td>
+    </tr>
+  <tr style="background-color:white;border:1px solid black">
+    <td style="border:1px solid black;">Odds</td>
+    <td style="border:1px solid black;">13/2</td>
+    </tr>
+  <tr style="background-color:mistyrose;border:1px solid black">
+    <td style="border:1px solid black;">Lost</td>
+    <td style="border:1px solid black;">$10</td>
+    </tr>
+</table>
 
 <hr>
 Next is "What JK said" which just repeats what he wrote in his article but with all the extraneous stuff (links and pictures) removed.
