@@ -25,7 +25,7 @@ So go to <a href="https://537597.xyz">537597.xyz</a> (or click <b><a href="https
 On each page, under "Game 1", "Game 2" etc, is JK's recommended betting angle (including the odds - fractional and decimal - and whether the bet lost $100 or, if it won, how much it returned). I'm pretending we've bet $100 on each game.
 
 Examples:
-
+<hr>
 Winning bet:
 
 #### Game 5 | Sunday 2pm
@@ -48,7 +48,7 @@ Winning bet:
 </table>
 
 Losing bet:
-
+<hr>
 #### Game 3 | Sunday 2pm
 ### Leeds vs Brighton
 
@@ -69,7 +69,7 @@ Losing bet:
 </table>
 
 Bad losing bet:
-
+<hr>
 #### Game 5 | Saturday 3pm
 ### Wolves vs Brighton
 
