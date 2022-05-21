@@ -203,7 +203,7 @@ Again, <font color="green">green is good</font>, <font color="crimson">red is ba
 
 So "<b><font color="green">Maddison (13/2 to score first) did</font></b>" is green because his betting angle of Maddison to score first (@ 13/2) came in - Maddison did score first.
 
-And "<b><font color="crimson">Wolves 1, Norwich (13/2 to win) 1</font></b>" is red because his betting angle of Norwich to win (@13/2) lost - Norwich didn't win.
+And "<b><font color="crimson">Leicester (17/10 to win) 0, Villa 0.</font></b>" is red because his betting angle of Leicester to win (@17/10) lost - Leicester didn't win.
 
 If his betting angle was a double, there may be green text and red text together. So, for example, "<b><font color="crimson">Villa 1, Palace 1. </font><font color="green">Both teams to score </font><font color="crimson">& over 2.5 goals was 6/5.</font></b>" Both teams did score so that part's green, but there weren't over 2.5 goals, hence the red. 
 
