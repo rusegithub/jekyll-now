@@ -123,7 +123,7 @@ Winning bet (nailed the correct score):
 </table>
 
 <hr>
-Right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 1-1 but it was 2-2: 
+Right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he predicted 0-0 but it was 1-1: 
 
 (Villa v Palace on 15 May)
 <table>
@@ -146,7 +146,7 @@ Right result but the wrong score - e.g. he predicted 2-0 but it was 1-0 OR he pr
 </table>
 
 <hr>
-Wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won (like the example above) OR he predicted one of the teams would win but it was a draw:
+Wrong result but not completely the wrong team - i.e. he predicted a draw but one of the teams won OR he predicted one of the teams would win but it was a draw:
 
 (Tottenham v Burnley on 15 May)
 <table>
